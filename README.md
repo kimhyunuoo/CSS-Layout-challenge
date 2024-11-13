@@ -1,4 +1,4 @@
-# The first challenge is complete
+# challenge 과제 완성본 정리
 
 [](./challenge01/image/challenge01.png)
 
