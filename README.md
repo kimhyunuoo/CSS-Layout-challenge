@@ -16,7 +16,7 @@
 
 03. 세번째 챌린지 과제
 
-[세번째과제 Click !]()
+[세번째과제 Click !](https://github.com/kimhyunuoo/CSS-Layout-challenge/blob/master/challenge03/images/challenge03.png)
 
 > 오늘의 집의 색감 / 현재 사이트 내에 배치되어있는 배너를 응용<br>
 > 큰 배너 3개는 마우스오버시에 움직임이 있도록 제작하였습니다.<br>
